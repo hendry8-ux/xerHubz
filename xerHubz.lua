@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/hendry8-ux/xerHubz/main/xerHubz.lua"))()
+loadstring(game:HttpGet("https://paste.ee/r/Sx6O9rbO"))()
